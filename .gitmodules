@@ -10,3 +10,6 @@
 [submodule "webserv"]
 	path = webserv
 	url = git@github.com:MM1212/webserv.git
+[submodule "libft"]
+	path = libft
+	url = git@github.com:MM1212/42-libft.git
