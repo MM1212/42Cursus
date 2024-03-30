@@ -13,3 +13,9 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:MM1212/42-libft.git
+[submodule "ft_ls"]
+	path = ft_ls
+	url = git@github.com:MM1212/ft_ls
+[submodule "libasm"]
+	path = libasm
+	url = git@github.com:MM1212/libasm
