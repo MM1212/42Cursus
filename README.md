@@ -38,7 +38,7 @@ Most of them are private but I'll be slowly making them public as time goes..
 - [x] [ft_transcendence](https://github.com/MM1212/ft_transcendence) (100%)
 
 ### Specializations
-- [x] [ft_ls](https://github.com/MM1212/ft_ls)
-- [x] [libasm](https://github.com/MM1212/libasm)
-- [x] [malloc](https://github.com/MM1212/malloc)
-- [x] [cloud-1](https://github.com/MM1212/cloud-1)
+- [x] [ft_ls](https://github.com/MM1212/ft_ls) (125%)
+- [x] [libasm](https://github.com/MM1212/libasm) (100%)
+- [x] [malloc](https://github.com/MM1212/malloc) (125%)
+- [x] [cloud-1](https://github.com/MM1212/cloud-1) (100%)
