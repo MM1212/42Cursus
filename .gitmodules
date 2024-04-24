@@ -19,3 +19,6 @@
 [submodule "libasm"]
 	path = libasm
 	url = git@github.com:MM1212/libasm
+[submodule "malloc"]
+	path = malloc
+	url = git@github.com:MM1212/malloc.git
