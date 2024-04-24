@@ -22,3 +22,6 @@
 [submodule "malloc"]
 	path = malloc
 	url = git@github.com:MM1212/malloc.git
+[submodule "cloud-1"]
+	path = cloud-1
+	url = git@github.com:MM1212/cloud-1.git
