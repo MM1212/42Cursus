@@ -25,3 +25,6 @@
 [submodule "cloud-1"]
 	path = cloud-1
 	url = git@github.com:MM1212/cloud-1.git
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = https://github.com/MM1212/ft_transcendence
